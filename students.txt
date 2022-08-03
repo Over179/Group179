@@ -1,0 +1,3 @@
+Ivanov:6.25
+Petrov:7.0
+Sidorov:8.25
