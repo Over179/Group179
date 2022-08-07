@@ -1,4 +1,4 @@
-students:
-ivanov
-petrov
-sidorov
+Students:
+Ivanov
+Petrov
+Sidorov
