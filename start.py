@@ -1242,3 +1242,4 @@
 # for i in range(len(list)):
 #     if list.index(list[i]) == i:
 #         print(list[i], '-', list.count(list[i])//2, 'пар(-а/-ы)')
+print("hello")
